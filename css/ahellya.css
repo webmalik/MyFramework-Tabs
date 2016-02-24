@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Ahellya';
+    src: local('Ahellya'), url('../fonts/ahellya.woff2') format('woff2'), url('../fonts/ahellya.woff') format('woff'), url('../fonts/ahellya.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Ahellya';
+    src: local('Ahellya Italic'), local('Ahellya-Italic'), url('../fonts/ahellyaitalic.woff2') format('woff2'), url('../fonts/ahellyaitalic.woff') format('woff'), url('../fonts/ahellyaitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
